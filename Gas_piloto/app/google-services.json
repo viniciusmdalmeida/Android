@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933508976804",
+    "firebase_url": "https://gaspiloto-cd457.firebaseio.com",
+    "project_id": "gaspiloto-cd457",
+    "storage_bucket": "gaspiloto-cd457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933508976804:android:407491b60831bc37",
+        "android_client_info": {
+          "package_name": "com.example.vinic.gas_piloto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933508976804-ibtpoojtqu4iv1akt7bhul8k2flumc4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinic.gas_piloto",
+            "certificate_hash": "68f961ef255d8d45227fea8edc6c2f4e11d5b663"
+          }
+        },
+        {
+          "client_id": "933508976804-30p9f8qht1e6emp76cvaa9qv99g0so1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxapYIA-fBqjOuK9psiusyIuJfm_bGTKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933508976804-30p9f8qht1e6emp76cvaa9qv99g0so1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
