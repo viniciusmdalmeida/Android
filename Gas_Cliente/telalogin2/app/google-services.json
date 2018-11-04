@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49290907800",
+    "firebase_url": "https://telalogin2-4ff26.firebaseio.com",
+    "project_id": "telalogin2-4ff26",
+    "storage_bucket": "telalogin2-4ff26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49290907800:android:4e96f07c37f5bf93",
+        "android_client_info": {
+          "package_name": "br.com.telalogin2.telalogin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49290907800-1cbavs9mdluqoahdiaapj4gffrbm48u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.telalogin2.telalogin2",
+            "certificate_hash": "86041616db7508dabaa5521d5ba1121ee459c5d2"
+          }
+        },
+        {
+          "client_id": "49290907800-o4qectoht2sbsink8m9tkgm3noh2qo3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KjQJAaiSWqs3WlNKymCJqZsrA320GEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49290907800-o4qectoht2sbsink8m9tkgm3noh2qo3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
